@@ -1,0 +1,79 @@
+[
+  {
+    "name": "black-label",
+    "url": "https://delta.co.zw/wp-content/uploads/2024/05/Untitled-1Artboard-6.png",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\black-label.png",
+    "bytes": 231156
+  },
+  {
+    "name": "castle",
+    "url": "https://delta.co.zw/wp-content/uploads/2024/05/Untitled-1Artboard-4.png",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\castle.png",
+    "bytes": 216194
+  },
+  {
+    "name": "zambezi",
+    "url": "https://delta.co.zw/wp-content/uploads/2024/05/Untitled-1Artboard-1.png",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\zambezi.png",
+    "bytes": 217079
+  },
+  {
+    "name": "flying-fish",
+    "url": "https://delta.co.zw/wp-content/uploads/2024/05/Brand-Flying-Fish.png",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\flying-fish.png",
+    "bytes": 187655
+  },
+  {
+    "name": "tanquery-gin",
+    "url": "https://elixirafrica.com/assets/tanqueray-BgqapXnr.jpg",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\tanquery-gin.jpg",
+    "bytes": 706767
+  },
+  {
+    "name": "jameson-black-barrel",
+    "url": "https://elixirafrica.com/__l5e/assets-v1/18f7d3f6-f123-4cf8-90cd-757c7cc1f7d3/jameson.png",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\jameson-black-barrel.png",
+    "bytes": 30647
+  },
+  {
+    "name": "corona-extra",
+    "url": "https://elixirafrica.com/assets/corona-DHahO-ML.jpg",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\corona-extra.jpg",
+    "bytes": 56834
+  },
+  {
+    "name": "du-toitskloof-merlot",
+    "url": "https://elixirafrica.com/__l5e/assets-v1/43aa3a62-9d1d-43ef-a69b-7c287ce6a7ef/dutoitskloof-merlot-2024.webp",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\du-toitskloof-merlot.webp",
+    "bytes": 71216
+  },
+  {
+    "name": "du-toitskloof-moscato",
+    "url": "https://elixirafrica.com/__l5e/assets-v1/7de412ce-c716-408e-8bdb-e4b60689733f/dutoitskloof-moscato-sweet-white.webp",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\du-toitskloof-moscato.webp",
+    "bytes": 69118
+  },
+  {
+    "name": "brutal-fruit-275ml",
+    "url": "https://johnnys.co.za/wp-content/uploads/2024/02/Brutal20fruit20ruby20apple20nrb.webp",
+    "page": "https://johnnys.co.za/shop/ready-to-drink/brutal-fruit-ruby-apple-nrb-275ml/",
+    "path": "apps\\customer_app\\customer-mobile\\assets\\paramount\\bar-products\\brutal-fruit-ruby-apple.webp",
+    "bytes": 9812
+  },
+  {
+    "name": "hunters",
+    "url": "https://dam.distell.co.za/m/5d8a8435472d79ce/original/Hunters-Dry-Pack-Shot-330ml-NRB-2024.png"
+  },
+  {
+    "name": "hunters-gold",
+    "url": "https://dam.distell.co.za/m/2ee88b98d6f4109d/original/Hunters-Gold-Pack-Shot-330ml-NRB-2024.png"
+  },
+  {
+    "name": "stella-photo",
+    "url": "https://file.adomicil.io/50friends.adomicil.io/_files/images/product/product194326-03209405007404.jpg"
+  },
+  {
+    "name": "mint-lime",
+    "url": "https://images.unsplash.com/photo-1659046842567-2787b5c9c2fe"
+  }
+]
